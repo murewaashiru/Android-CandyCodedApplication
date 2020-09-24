@@ -8,6 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0529c71-dbdf-4711-89db-73927312df5f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,26 +154,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="200" y="96" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1600969803649" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1600974125114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1600974125114" />
     <state x="538" y="129" key="AndroidProcessChooserDialog" timestamp="1600969816009">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="538" y="129" key="AndroidProcessChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1600969816009" />
-    <state width="1323" height="273" key="GridCell.Tab.0.bottom" timestamp="1600972604046">
+    <state width="1323" height="273" key="GridCell.Tab.0.bottom" timestamp="1600974338101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="273" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600972604046" />
-    <state width="1323" height="273" key="GridCell.Tab.0.center" timestamp="1600972604045">
+    <state width="1323" height="273" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600974338101" />
+    <state width="1323" height="273" key="GridCell.Tab.0.center" timestamp="1600974338101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="273" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600972604045" />
-    <state width="1323" height="273" key="GridCell.Tab.0.left" timestamp="1600972604045">
+    <state width="1323" height="273" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600974338101" />
+    <state width="1323" height="273" key="GridCell.Tab.0.left" timestamp="1600974338101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="273" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600972604045" />
-    <state width="1323" height="273" key="GridCell.Tab.0.right" timestamp="1600972604045">
+    <state width="1323" height="273" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600974338101" />
+    <state width="1323" height="273" key="GridCell.Tab.0.right" timestamp="1600974338101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="273" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600972604045" />
+    <state width="1323" height="273" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600974338101" />
     <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1600969521327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
